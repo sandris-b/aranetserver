@@ -1,7 +1,7 @@
 ### Aranet Server
 
 #### Installation
-#####Must have [.NET CORE 5](https://dotnet.microsoft.com/download/dotnet/5.0")
+#####Must have [.NET CORE 5](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 
 `1. Clone or download repository`
